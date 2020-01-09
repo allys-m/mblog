@@ -5,4 +5,10 @@
    #fldContent {
       margin-left: 5%; margin-right: 5%;
    }
+   #souDiv-1 {
+      float: left;
+   }
+   #souDiv-2 {
+      float: right;
+   }
 }
