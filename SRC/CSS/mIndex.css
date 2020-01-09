@@ -1,3 +1,8 @@
-body {
-   background-color: cyan;
+@media only screen and (orientation: landscape) {
+   body {
+      background-color: red;
+   }
+   #fldContent {
+      margin-left: 5%; margin-right: 5%;
+   }
 }
