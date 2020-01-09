@@ -5,6 +5,9 @@
    #fldContent {
       margin-left: 5%; margin-right: 5%;
    }
+   .imgTest {
+      border-radius: 50px;
+   }
    #souDiv-1 {
       float: left;
    }
