@@ -30,7 +30,7 @@ let mMain = class {
 		app.get('/', (req, res)=>{
 			res.setHeader('200', {'Content-Type': 'text/plain'});
 			//res.render(path.join(__dirname + '/src/prive/allys.html'));
-            res.send("<h1>........TEST:::::::::</h1>");
+                        res.send("<h1>........TEST:::::::::</h1>");
 		});
 		
 		app.listen(3001);
