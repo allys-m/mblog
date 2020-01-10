@@ -20,7 +20,7 @@
 
 /*  ***************************************************************************  */
 @media only screen and ( orientation: portrait) 
-                   and ( weidth: 360px   ) and ( height: 740px ) {
+                   and ( min-width: 360px   ) {
    body {
       background-color: yellow;
    }
