@@ -1,4 +1,26 @@
+/*  ***************************************************************************  */
 @media only screen and (orientation: landscape) {
+   body {
+      background-color: red;
+   }
+   #fldContent {
+      margin-left: 5%; margin-right: 5%;
+   }
+   .imgTest {
+      border-radius: 80px;
+   }
+   #souDiv-1 {
+      float: left;
+   }
+   #souDiv-2 {
+      float: right;
+   }
+}
+/*  ***************************************************************************  */
+
+/*  ***************************************************************************  */
+@media only screen and ( orientation: portrait) 
+                   and ( min-weidth : 360px   ) {
    body {
       background-color: red;
    }
@@ -15,3 +37,4 @@
       float: right;
    }
 }
+/*  ***************************************************************************  */
