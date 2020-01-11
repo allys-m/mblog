@@ -1,8 +1,7 @@
 /*  ***************************************************************************  */
 @media only screen and (orientation: landscape) {
-   body {
-      background-image: url('SRC/IMG/0001.jpg');
-   }
+   body {}
+   
    #fldContent {
       margin-left: 5%; margin-right: 5%;
    }
@@ -15,6 +14,7 @@
    #souDiv-2 {
       float: right;
    }
+   #bTitr { text-align: center; }
 }
 /*  ***************************************************************************  */
 
