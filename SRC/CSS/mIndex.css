@@ -7,7 +7,7 @@
       margin-left: 5%; margin-right: 5%;
    }
    .imgTest {
-      border-radius: 150px; width: 200px; heught: 200px;
+      border-radius: 160px; width: 180px; heught: 180px; background-color: cyan;
    }
    #souDiv-1 {
       float: left;
