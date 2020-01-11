@@ -1,7 +1,7 @@
 /*  ***************************************************************************  */
 @media only screen and (orientation: landscape) {
    body {
-      background-color: red;
+      background-image: url('SRC/IMG/0001.jpg');
    }
    #fldContent {
       margin-left: 5%; margin-right: 5%;
