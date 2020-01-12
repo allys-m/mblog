@@ -5,6 +5,9 @@
    #fldContent {
       margin-left: 5%; margin-right: 5%;
    }
+   #divTitre {
+      border: solid 1px; border-left-radius: 5%;
+   }
    .imgTest {
       border-radius: 180px; width: 100px; heught: 100px; background-color: cyan;
    }
