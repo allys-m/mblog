@@ -17,7 +17,9 @@
    #souDiv-2 {
       float: right; font-size: 25px; color: white;
    }
-   .bTitr { text-align: center; }
+   .bTitr {
+      font-size: 30px; color: white; text-align: center;
+   }
 }
 /*  ***************************************************************************  */
 
