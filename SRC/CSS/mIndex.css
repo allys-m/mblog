@@ -28,7 +28,7 @@
       background-color: black;
    }
    #fldContent {
-      background-image: url("/SRC/IMG/0001.jpg");  margin-left: 5%; margin-right: 5%;
+      background-image: url("SRC/IMG/0001.jpg");  margin-left: 5%; margin-right: 5%;
    }
    .imgTest {
       border-radius: 100px; width: 80px; heught: 80px;
@@ -39,5 +39,9 @@
    #souDiv-2 {
       float: right;
    }
+   #bTitr {
+      font-size: 50px; color: white; 
+   }
+                      
 }
 /*  ***************************************************************************  */
