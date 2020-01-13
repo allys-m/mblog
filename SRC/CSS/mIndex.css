@@ -15,9 +15,9 @@
       float: left;
    }
    #souDiv-2 {
-      float: right;
+      float: right; font-size: 25px; color: white;
    }
-   #bTitr { text-align: center; }
+   .bTitr { text-align: center; }
 }
 /*  ***************************************************************************  */
 
@@ -37,7 +37,7 @@
       float: left;
    }
    #souDiv-2 {
-      float: right;
+      float: right; font-size: 25px; color: white;
    }
    .bTitr {
       font-size: 50px; color: white; 
