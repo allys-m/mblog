@@ -28,7 +28,10 @@
       background-color: black;
    }
    #fldContent {
-      background-image: url("SRC/IMG/0001.jpg");  margin-left: 5%; margin-right: 5%;
+      margin-left: 5%; margin-right: 5%;
+   }
+   #fldContent> divTitre {
+      background-image: url("SRC/IMG/0001.jpg");  
    }
    .imgTest {
       border-radius: 100px; width: 80px; heught: 80px;
@@ -37,10 +40,13 @@
       float: left;
    }
    #souDiv-2 {
-      float: right; font-size: 25px; color: white;
+      float: right; 
+   }
+   #souDiv-2 ul li a {
+      font-size: 18px; color: white;
    }
    .bTitr {
-      font-size: 50px; color: white; 
+      font-size: 30px; color: white; 
    }
                       
 }
