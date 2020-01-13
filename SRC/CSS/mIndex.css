@@ -23,7 +23,7 @@
 
 /*  ***************************************************************************  */
 @media only screen and ( orientation: portrait) 
-                   and ( min-width: 360px   ) {
+                   and ( min-width: 360px     ) {
    body {
       background-color: black;
    }
@@ -39,7 +39,7 @@
    #souDiv-2 {
       float: right;
    }
-   #bTitr {
+   .bTitr {
       font-size: 50px; color: white; 
    }
                       
