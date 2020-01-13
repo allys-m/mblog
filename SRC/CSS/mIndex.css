@@ -3,7 +3,7 @@
    body {}
    
    #fldContent {
-      margin-left: 5%; margin-right: 5%;
+      margin-top: 5%; margin-left: 5%; margin-right: 5%;
    }
    #divTitre {
       background-image: url("SRC/IMG/0001.jpg");  
@@ -30,7 +30,7 @@
       background-color: black;
    }
    #fldContent {
-      margin-left: 5%; margin-right: 5%;
+      margin-top: 8%; margin-left: 5%; margin-right: 5%;
    }
    #divTitre {
       background-image: url("SRC/IMG/0001.jpg");  
@@ -48,7 +48,7 @@
       font-size: 18px; color: white;
    }
    .bTitr {
-      font-size: 30px; color: white; text-align: center;
+      font-size: 30px; color: white; margin-left: 10%;
    }
                       
 }
