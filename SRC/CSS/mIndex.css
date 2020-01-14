@@ -15,7 +15,7 @@
       float: left;
    }
    #souDiv-2 {
-      float: right; font-size: 25px; color: white;
+      float: right; font-size: 20px; color: white; padding: 2px;
    }
    .bTitr {
       font-size: 30px; color: white; text-align: center;
