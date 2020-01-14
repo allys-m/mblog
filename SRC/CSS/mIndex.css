@@ -9,13 +9,14 @@
       background-image: url("SRC/IMG/0001.jpg");  
    }
    .imgTest {
-      border-radius: 180px; width: 100px; heught: 100px; background-color: cyan;
+      border-radius: 180px; width: 100px; heught: 100px;
+      border-color: red;
    }
    #souDiv-1 {
       float: left;
    }
    #souDiv-2 {
-      float: right; font-size: 20px; color: white; padding: 2px;
+      float: right; font-size: 25px; color: white; padding: 2px;
    }
    .bTitr {
       font-size: 30px; color: white; text-align: center;
@@ -36,16 +37,16 @@
       background-image: url("SRC/IMG/0001.jpg");  
    }
    .imgTest {
-      border-radius: 100px; width: 80px; heught: 80px;
+      border-radius: 100px; width: 100px; heught: 100px;
    }
    #souDiv-1 {
       float: left;
    }
    #souDiv-2 {
-      float: right; 
+      float: right;
    }
    #souDiv-2 ul li a {
-      font-size: 18px; color: white;
+      font-size: 19px; color: white; padding: 1.5px; 
    }
    .bTitr {
       font-size: 30px; color: white; margin-left: 10%;
