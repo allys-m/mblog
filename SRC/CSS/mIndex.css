@@ -17,7 +17,12 @@
    }
    #souDiv-2 {
       float: right; font-size: 25px; color: white; padding: 2px;
-      border: solid 1px; border-color: cyan; background-color: red;
+   }
+   #souDiv-2 li {
+      border: solid 1px; border-color: yellow; background-color: black;
+   }
+   #souDiv-2 a {
+      color: yellow;
    }
    .bTitr {
       font-size: 50px; margin-left: 15%; color: black;
