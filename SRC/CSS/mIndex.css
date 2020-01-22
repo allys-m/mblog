@@ -16,19 +16,19 @@
       float: left;
    }
    #souDiv-2 {
-      float: right; font-size: 25px;
+      float: right;
    }
    #souDiv-2 li {
       border: solid 1px; border-color: yellow; background-color: black; overflow: hidden;
    }
    #souDiv-2 a {
-      color: yellow; text-decoration: none;
+      color: yellow; font-size: 18px; text-decoration: none;
    }
    #souDiv-2 li:hover {
       background-color: white; 
    }
    .bTitr {
-      font-size: 50px; margin-left: 15%; color: black;
+      font-size: 50px; margin-left: 20%; color: black; text-shadow: 3px 18px 3px red;
    }
 }
 /*  ***************************************************************************  */
