@@ -22,10 +22,10 @@
       border: solid 1px; border-color: yellow; background-color: black; overflow: hidden;
    }
    #souDiv-2 a {
-      color: yellow; font-size: 18px; text-decoration: none;
+      color: yellow; font-size: 25px; text-decoration: none;
    }
    #souDiv-2 li:hover {
-      background-color: white; 
+      background-color: white; border-bottom-left-radius: 28%;
    }
    .bTitr {
       font-size: 50px; margin-left: 20%; color: black; text-shadow: 3px 18px 3px red;
