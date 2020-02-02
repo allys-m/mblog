@@ -7,10 +7,10 @@
 	}
 
 	#musT marquee {
-		font-size: 18px; text-shadow: 8px 18px 8px white;
+		font-size: 8px; text-shadow: 8px 18px 8px white;
 	}
 	#musT marquee img {
-		border-radius: 290px; width: 60px; height: 60px; margin-bottom: -2%;
+		border-radius: 290px; width: 20px; height: 20px; margin-bottom: -2%;
 	}
 	#fieldBody {
 		margin-left: 8%; margin-right: 8%; margin-top: -1%;
@@ -89,8 +89,11 @@
 		border-radius: 190px; margin-top: -10%; border: solid 2px; border-color: red;
 		margin-left: -22%
 	}
+	#fisrt-div:hover {
+		background-color: white;
+	}
 	#fisrt-div ul {
-		margin-top: -13%; padding-bottom: 2%;
+		margin-top: -11%; padding-bottom: 2%;
 	}
 	#fisrt-div li{
 	    overflow: hidden; 
