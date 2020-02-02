@@ -24,16 +24,16 @@
 	.titr0 {
 		font-size: 25px; border: solid 2px; border-color: red;
 		border-bottom-left-radius: 20px; color: black;
-		background-color: white; margin-left: -8%;
+		background-color: white; margin-left: -16%;
 	}
 	.titr0:hover {
 		font-size: 25px; border: solid 2px; border-color: red;
 		border-bottom-left-radius: 20px; color: white;
-		background-color: black; margin-left: -8%;
+		background-color: black; margin-left: -18%;
 	}
 	.img0 {
 		border-radius: 190px; margin-top: -6%; border: solid 2px; border-color: red;
-		margin-left: -22%
+		margin-left: -28%; width: 80px; height: 80px;
 	}
 }
 
