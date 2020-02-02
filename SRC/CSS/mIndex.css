@@ -2,33 +2,38 @@
 
 @media only screen and (max-width: 360px) and (max-height: 740px)
 {
+	body {
+		background-color: none;
+	}
 
+	#musT marquee {
+		font-size: 18px; text-shadow: 8px 18px 8px white;
+	}
+	#musT marquee img {
+		border-radius: 290px; width: 60px; height: 60px; margin-bottom: -2%;
+	}
+	#fieldBody {
+		margin-left: 8%; margin-right: 8%; margin-top: -1%;
+		padding-bottom: 8%; border: dotted 2px; 
+		border-color: yellow; background-color: black;
+		border-top-left-radius: 20px; 
+	}
 	#firstFieldset {
-		background-color: cyan; margin-left: 3%; margin-right: 3%;
+		background-color: none; margin-left: 5%; margin-right: 5%;
 	}
 	.titr0 {
-		font-size: 25px; border: solid 1px; border-color: red;
-		border-bottom-left-radius: 10px;
+		font-size: 25px; border: solid 2px; border-color: red;
+		border-bottom-left-radius: 20px; color: black;
+		background-color: white;
+	}
+	.titr0:hover {
+		font-size: 25px; border: solid 2px; border-color: red;
+		border-bottom-left-radius: 20px; color: white;
+		background-color: black;
 	}
 	.img0 {
-		border-radius: 290px; margin-top: -1%; border: solid 1px; border-color: red;
-		width: 120px;  height: 120px;
-	}
-	#fisrt-div ul{
-		margin-right: 14.5%;
-	}
-	#fisrt-div li{
-		text-align: center; padding: 0px; overflow: hidden;
-		border: solid 1px; border-color: red; background-color: black;
-	}
-	#fisrt-div a {
-		text-decoration: none; color: white; font-size: 18px;
-	}
-
-	#vid {
-		width: 300px; height: 150px;
-		margin-left: 1.5%;
-
+		border-radius: 190px; margin-top: -6%; border: solid 2px; border-color: red;
+		margin-left: -12%
 	}
 }
 
